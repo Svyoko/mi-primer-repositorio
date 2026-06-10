@@ -12,3 +12,6 @@ Este es mi primer proyecto en GitHub.
 - Carrera: Ingeniería en Informática
 
 XDXDXDXDXD
+## Descripción del proyecto
+Este proyecto fue creado para aprender a colaborar
+con Git y GitHub de forma efectiva.

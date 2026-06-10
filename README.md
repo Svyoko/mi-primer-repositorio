@@ -12,3 +12,7 @@ Este es mi primer proyecto en GitHub.
 - Carrera: Ingeniería en Informática
 
 XDXDXDXDXD
+## Tecnologías usadas
+- Git
+- GitHub
+- Visual Studio CodeXD
